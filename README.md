@@ -1,2 +1,1 @@
-# 2PetesThinkfulPortfolio
-Thinkful 4.1.5 - Adding classes to the Portfolio
+# starter-pete-thinkful-portfolio
